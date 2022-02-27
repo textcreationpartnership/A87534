@@ -1,0 +1,226 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A preparative to the treaty: or, a short, sure, and conscientious expedient for agreement and peace; tendred to the two Houses of Parliament. With an appeale to the assembly of divines. Also, an admonition to the people, concerning the present ingagements. / By Da. J. P.N.</title>
+            <author>Jenkins, David, 1582-1663.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87534</idno>
+            <idno type="STC">Wing J600</idno>
+            <idno type="STC">Thomason E463_17</idno>
+            <idno type="EEBO-CITATION">50805842</idno>
+            <idno type="OCLC">ocm 50805842</idno>
+            <idno type="VID">162223</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87534)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162223)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 74:E463[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A preparative to the treaty: or, a short, sure, and conscientious expedient for agreement and peace; tendred to the two Houses of Parliament. With an appeale to the assembly of divines. Also, an admonition to the people, concerning the present ingagements. / By Da. J. P.N.</title>
+                  <author>Jenkins, David, 1582-1663.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162223:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 73 -->
+            <p>
+               <hi>A</hi> PREPARATIVE <hi>TO THE</hi> TREATY: <hi>OR,</hi> A ſhort, ſure, and conſcientious Expedient for Agreement, and Peace; tendred to the two Houſes of <hi>Parliament. WITH</hi> An Appeale to the <hi>Aſſembly of Divines. ALSO,</hi> An Admonition to the People, concerning the preſent Ingagements.</p>
+            <p>By <hi>Da. J.</hi> P. N.</p>
+            <q>
+               <bibl>NUMB. 30.2.</bibl>
+               <p>If a man vow a Vow unto the Lord, or ſweare an Oath to bind his Soule with a Bond; he ſhall not breake his word, he ſhall doe according to all that proceedeth out of his mouth.</p>
+            </q>
+            <q>
+               <bibl>JOSH. 9.20.</bibl>
+               <p>Leſt wrath be upon him, becauſe of the Oath which he ſware.</p>
+            </q>
+            <p>Printed in the Yeare, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162223:2"/>
+            <!-- PDF PAGE 74 -->
+            <pb n="1" facs="tcp:162223:2"/>
+            <!-- PDF PAGE 74 -->
+            <head>A ſhort, ſure, and conſcientious Expedient for Agreement and Peace.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He KING and the two Houſes of Parlia<g ref="char:EOLhyphen"/>ment declaring mutually, that <hi>they took up Armes for the ſame reaſons, intents, and purpoſes,</hi> 'tis a wonder how at firſt they fell out, and a greater wonder that hitherto they are not reconciled.</p>
+            <div type="part">
+               <head>The <hi>Declarations</hi> of the two Houſes of Parliament.</head>
+               <p>They have the precedency,
+<note place="margin">The Declara<g ref="char:EOLhyphen"/>tions of the two Houſes of Parliament.</note> becauſe they were firſt in Armes.</p>
+               <p>In the concluſion of their Declaration of 26 <hi>May,</hi> 1642. apprehending very juſtly, that their expreſſions there would beget at leaſt a great ſuſpition of their Loyalty, they ſay, <hi>They doubt not but it ſhall in the end appear to all the world, that their endeavours have been moſt hearty and ſincere for the maintenance of the true Proteſtant Religion, the</hi> KING's <hi>juſt Prerogatives, the Lawes and Liberties of the Land, and the Priviledges of Parliament, in which en<g ref="char:EOLhyphen"/>deavours by the grace of God, they would ſtill perſiſt, though they ſhould periſh in the worke.</hi>
+               </p>
+               <p>
+                  <pb n="2" facs="tcp:162223:3"/>
+                  <!-- PDF PAGE 75 -->
+In like manner, <hi>June</hi> 2. when they publiſhed their Propoſitions <hi>for bringing in Money or Plate to raiſe an Army,</hi> they declared, <hi>That whatſoever is brought in ſhall not at all be imployed upon any other occaſion, then to main<g ref="char:EOLhyphen"/>tain the Proteſtant Religion, the</hi> KING's <hi>Authority, and His Perſon in His Royall dignity, the free courſe of Juſtice, the Lawes of the Land, the Peace of the Kingdome, and the Priviledges of Parliament.</hi> Infinite are their Declarati<g ref="char:EOLhyphen"/>ons and profeſſions in this kind.</p>
+            </div>
+            <div type="part">
+               <head>The <hi>KING's</hi> Declarations.</head>
+               <p>
+                  <label>June 16.</label>
+                  <note place="margin">The King's Declarations.</note> His Majeſty publiſhed a Declaration to all His loving Subjects, exciting them <hi>to bring in ready Mo<g ref="char:EOLhyphen"/>ney and Plate, and to furniſh Him with Horſe, Horſe-men, and Armes, for defence of the Proteſtant Religion, the pre<g ref="char:EOLhyphen"/>ſervation of His royall Perſon, the Lawes, Liberties, and Peace of the Kingdome, and the vindication of the Privi<g ref="char:EOLhyphen"/>ledge and Freedome of Parliament.</hi>
+               </p>
+               <p>In His Declaration to all His loving Subjects con<g ref="char:EOLhyphen"/>cerning the proceedings of this preſent Parliament, <hi>Aug.</hi> 12. His Majeſty ſaies, <hi>That nothing, but the preſer<g ref="char:EOLhyphen"/>vation of the true Proteſtant Religion, invaded by Brow<g ref="char:EOLhyphen"/>niſme, Anabaptiſme, and Libertiniſme, the ſafety of His Perſon, threatned and conſpired againſt by Rebellion, and Treaſon, the Law of the Land, and Liberty of the Subject, oppreſſed, and almoſt deſtroyed by an uſurped, unlimited, ar<g ref="char:EOLhyphen"/>bitrary Power, and the Freedome, Priviledge, and Dignity of Parliament awed and inſulted upon by force, and Tu<g ref="char:EOLhyphen"/>mults, could make Him put off His long Robe of Peace, and take up defenſive Armes.</hi>
+               </p>
+               <p>And in purſuance of theſe ends <hi>did His Majesty offer Propoſitions accordingly,</hi>
+                  <note place="margin">The King's Propoſitions conform to his Declarations.</note> at all Treaties, where He might propoſe any thing.</p>
+               <p>
+                  <pb n="3" facs="tcp:162223:3"/>
+                  <!-- PDF PAGE 75 -->
+But concerning the Propoſitions of the two Houſes of Parliament, at the Treaty at <hi>Uxbridge,</hi>
+                  <note place="margin">The Propoſiti<g ref="char:EOLhyphen"/>ons of the two Houſes diffe<g ref="char:EOLhyphen"/>ring from their Declarations.</note> His Majeſties. Commiſſioners truly obſerved, <hi>That after a War of neer</hi> 4 <hi>Yeares for which the defence of the Proteſtant Religion, the Liberty and Property of the Subject, and the Priviledges of the Parliament, were made the cauſe and grounds, in a Treaty of</hi> 20 <hi>Daies, nor indeed in the whole Propoſitions upon which the Treaty ſhould be,
+<note place="margin">They alter the ſtate of the warre.</note> there hath been nothing of<g ref="char:EOLhyphen"/>fered to be Treated concerning the Breach of any Law, or of the Liberty and Property of the Subject, or Priviledge of Parliament, but onely Propoſitions for the altering a Go<g ref="char:EOLhyphen"/>vernment eſtabliſhed by Law, and the making new Lawes, by which almoſt all the old are, or may be cancelled.</hi>
+               </p>
+               <p>I will not here diſpute the <hi>Power</hi> of the two Houſes of Parliament ſeparate from the KING, but</p>
+               <p>
+                  <hi>That they cannot aſſent to any thing in Parliament,
+<note place="margin">What the two Houſes cannot doe in reſpect of the King and Crown.</note> that tends to the diſheriſon of the</hi> KING, <hi>and His Crowne, whereunto they are ſworne,</hi> is acknowledged by the Lords and Commons in full Parliament, 42 <hi>Edw.</hi> 3.</p>
+               <p>And, <hi>that they neither meant, nor had power,
+<note place="margin">The Oathes of Allegiance and Supremacy.</note> to hurt the</hi> KING's <hi>Prerogative,</hi> is declared by the Houſe of Com<g ref="char:EOLhyphen"/>mons at the paſſing of the <hi>Petition of Right,</hi> 3 Caroli.</p>
+               <p>Beſides,
+<note place="margin">What they are bound to doe for the King and the Crown.</note> by the Oaths of Allegiance and Supremacy they are bound poſitively, <hi>to defend and maintaine His Majeſties royall Perſon, with all the Prerogatives, Privi<g ref="char:EOLhyphen"/>ledges, and Preheminencies belonging or annexed to the imperiall Crown.</hi>
+               </p>
+               <p>And they have bound themſelves <hi>by the Proteſtation,
+<note place="margin">The Prote<g ref="char:EOLhyphen"/>ſtation.</note> with their Lives, power, and Eſtates, to defend and main<g ref="char:EOLhyphen"/>taine His Majeſties royall Perſon, Honour, and Eſtate; to<g ref="char:EOLhyphen"/>gether with the power of the Priviledge of Parliament, and the lawfull Rights and Liberties of the Subject: And to their power to oppoſe all ſuch as ſhall by force, counſell, con<g ref="char:EOLhyphen"/>ſpiracy,
+<pb n="4" facs="tcp:162223:4"/>
+                     <!-- PDF PAGE 76 -->or otherwiſe, doe any thing to the contrary of any thing in the Proteſtation contained: And that they will not for hope, feare, or other reſpects, relinquiſh this Pro<g ref="char:EOLhyphen"/>miſe, Vow and Proteſtation.</hi>
+               </p>
+               <p>And by the <hi>Solemne League and Covenant,</hi>
+                  <note place="margin">The League &amp; Covenant.</note> In <hi>the preſervation of Religion and Liberties, to maintain and de<g ref="char:EOLhyphen"/>fend the</hi> KING's <hi>Perſon and Authority, without diminiſh<g ref="char:EOLhyphen"/>ing His juſt Power and Greatneſſe: And that they will all the daies of their lives continue in this Covenant againſt all oppoſition whatſoever.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The Expedient for Peace.</head>
+               <p>Now let the Lords and Commons <hi>at the Treaty</hi> pro<g ref="char:EOLhyphen"/>ceed,
+<note place="margin">The expedient for Peace.</note> not according to <hi>their ſtrengths and ſucceſſes,</hi> but according to <hi>their Declarations, and their legall and vo<g ref="char:EOLhyphen"/>luntary Oaths (i.)</hi> with Religion, Priviledges, and Li<g ref="char:EOLhyphen"/>berties; Let them maintaine and defend the KING, the Crown, His Majeſties Honour and Eſtate, His Au<g ref="char:EOLhyphen"/>thority, Power, and Greatneſſe; And an Agreement and Peace will follow thereupon. <hi>An Oath being the end of all ſtrife,</hi> Heb. 6.16.</p>
+            </div>
+            <div type="part">
+               <head>An Appeale to the <hi>Aſſembly of Divines.</hi>
+               </head>
+               <p>And I appeale to the <hi>Aſſembly of Divines</hi> (for their Aſſent,
+<note place="margin">An Appeale to the Aſſembly of Divines.</note> or Anſwer) whether <hi>in point of Religion and Con<g ref="char:EOLhyphen"/>ſcience</hi> they may proceed otherwiſe then according to their <hi>Declarations, Proteſtation,</hi> and <hi>Covenant?</hi> And whether they are not guilty of <hi>diſloyalty</hi> and <hi>perjury</hi> pro<g ref="char:EOLhyphen"/>ceeding otherwiſe?
+<note place="margin">The Parl. and the Army have altered the ſtate of the warre.</note> as the two Houſes have done hither<g ref="char:EOLhyphen"/>to by their <hi>Propoſitions deveſting the</hi> KING, <hi>and the Crown of the chief Power and Government, and eſtabliſh<g ref="char:EOLhyphen"/>ing it in themſelves:</hi> And as the <hi>Army</hi> did by their laſt Declaration, Reſolving <hi>to ſettle the Government without
+<pb n="5" facs="tcp:162223:4"/>
+                     <!-- PDF PAGE 76 -->the</hi> KING, <hi>and againſt Him, and againſt all that take part with Him.</hi>
+               </p>
+               <p>And hence our late Petitions for His Majeſties Re<g ref="char:EOLhyphen"/>turne to His Parliament and Government (being con<g ref="char:EOLhyphen"/>trary to their ſenſe) were ſo unwelcome to them,
+<note place="margin">Why our late Petitions were ſo unwelcome to them.</note> that the Petitioners from <hi>Surrey</hi> and <hi>Kent</hi> were chaſtiſed by them.</p>
+            </div>
+            <div type="part">
+               <head>An Admonition to the People concerning the Engagements.</head>
+               <p>And to involve <hi>the People</hi> in this damnable <hi>Apoſtacy from their faith and allegiance</hi> to GOD, and the KING;
+<note place="margin">The preſent Engagements.</note> and the better to carry on their deſigns againſt the King and the Crown, have they framed <hi>an Ingagement for us, to adhere to the authority of the two Houſes of Parliament, (i.)</hi> to Renounce the KING, His Proteſtation, and Go<g ref="char:EOLhyphen"/>vernment, and to ſubmit to the uſurpation and domina<g ref="char:EOLhyphen"/>tion of the two Houſes of Parliament, and to ſerve them: And this Ingagement is carried on at this day in the ſe<g ref="char:EOLhyphen"/>verall Counties, Cities, and Corporations (ſilently, and covertly) for encreaſing and ſtrengthning their Confe<g ref="char:EOLhyphen"/>deracy, and for enlarging and eſtabliſhing their Domi<g ref="char:EOLhyphen"/>nion privily and inſenſibly.</p>
+               <p>There is alſo another <hi>Engagement</hi> on foot (of the ſame nature with the <hi>Negative Oath) Not to aſsiſt the</hi> KING <hi>in this War</hi> (for Recovering His Rights and Pre<g ref="char:EOLhyphen"/>rogatives) <hi>and not to doe any thing to the prejudice of the affaires of the two Houſes of Parliament</hi> (in proſecution of their deſignes againſt the KING and the Crowne.) And when any become liable to them, they are forced to take this Ingagement before they can get off from their Delinquency.</p>
+            </div>
+            <div type="part">
+               <pb n="6" facs="tcp:162223:5"/>
+               <!-- PDF PAGE 77 -->
+               <head>The People in their ſeverall Pariſhes to conſult their reſpective Miniſters about the Ingagements.</head>
+               <p>But I would have the people of the Kingdome to re<g ref="char:EOLhyphen"/>member when they took the Oath of Supremacy,
+<note place="margin">The People in every Pariſa to conſult their reſpective Mi<g ref="char:EOLhyphen"/>niſters.</note> That <hi>they promiſed from thenceforth to bear faith and true Alle<g ref="char:EOLhyphen"/>giance to the</hi> KING's <hi>Highneſſe, His Heires, and lawfull Succeſſours; and to their power to aſsiſt and defend all Ju<g ref="char:EOLhyphen"/>riſdictions, Priviledges, Preheminences, and Authority granted, or belonging to the</hi> KING's <hi>Highneſſe, His Heirs and Succeſſours, or linked and annexed to the Imperiall Crown of the Realme.</hi>
+               </p>
+               <p>And when they took the Oath of Allegiance, That <hi>they ſwore to beare faith and true Allegiance to His Majeſty, His Heires and Succeſſours; and Him, and them to defend to the utmoſt of their power, againſt all conſpiracies and at<g ref="char:EOLhyphen"/>tempts whatſoever, which ſhall be made againſt His, or their Perſons, their Crowne and Dignity.</hi>
+               </p>
+               <p>And I would have the <hi>people in the ſeverall Pariſhes (in the City and County)</hi> to conſult <hi>their reſpective Miniſters,</hi> whether conſidering the <hi>Oaths</hi> aforeſaid they can <hi>engage or comply</hi> with the two Houſes and the Army in manner aforeſaid without high <hi>diſloyalty</hi> &amp; manifeſt <hi>perjury?</hi> or whether conſidering <hi>their Obligations by thoſe Oaths and by the Proteſtation</hi> &amp; <hi>Covenant,</hi> they ought not rather to oppoſe, and fight againſt them for <hi>the defence and main<g ref="char:EOLhyphen"/>tenance of the</hi> KING <hi>and Crown, and the eſtabliſhed Go<g ref="char:EOLhyphen"/>vernment of the Kingdome?</hi>
+               </p>
+               <p>
+                  <hi>I Counſell thee to keep the King's Commandement, and that in regard of the Oath of God,</hi> Eccl. 8.2.</p>
+               <p>
+                  <hi>[It is a pernicious Doctrine to teach Subjects they may be diſchar<g ref="char:EOLhyphen"/>ged from the Oath of Allegiance.]</hi> Mr. <hi>Pym, p.</hi> 17. of his Speech or Declaration delivered after the recapitulation or ſummoning up of the Charge of High Treaſon againſt the E. of <hi>Strafford;</hi> and publiſhed by the Order of the Houſe of Commons.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
